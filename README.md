@@ -22,9 +22,9 @@ I have wide and substantial expertise and provide a full range of Blockchain-rel
 2. Full Stack
 - React / Angular / Vue / Svelte / Next / Typescript
 - Node.js / Express.js / PHP
-- Ionic / ReactNative / Flutter
+- Ionic / React Native / Flutter
 - PostgreSQL / MySQL / MongoDB
-- HTML5 /Bootstrap /CSS3 / SCSS / TailwindCSS
+- HTML5 / Bootstrap /CSS3 / SCSS / TailwindCSS
 - AWS / Digital Ocean / Nginx / Heroku / Netlify
 </p>
 
